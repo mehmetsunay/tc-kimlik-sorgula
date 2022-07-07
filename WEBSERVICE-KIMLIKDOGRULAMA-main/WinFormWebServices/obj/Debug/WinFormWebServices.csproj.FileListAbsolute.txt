@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\bin\Debug\WinFormWebServices.exe.config
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\bin\Debug\WinFormWebServices.exe
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\bin\Debug\WinFormWebServices.pdb
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\obj\Debug\WinFormWebServices.Form1.resources
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\obj\Debug\WinFormWebServices.Properties.Resources.resources
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\obj\Debug\WinFormWebServices.exe
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\obj\Debug\WinFormWebServices.pdb
+C:\Users\User\source\repos\CSharpPart4\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\bin\Debug\WinFormWebServices.exe.config
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\bin\Debug\WinFormWebServices.exe
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\bin\Debug\WinFormWebServices.pdb
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.Form1.resources
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.Properties.Resources.resources
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.exe
+C:\Users\mehme\Desktop\Yeni klasör (2)\WEBSERVICE-KIMLIKDOGRULAMA-main\WinFormWebServices\obj\Debug\WinFormWebServices.pdb
